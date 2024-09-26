@@ -2,4 +2,7 @@
 Docs mini app made up of react.In which you can drag docs.
 
 # photo
-<img src="./img1">
+<div flex>
+<img height="500px" src="./public/img1.jpg">
+<img height="500px" src="./public/img2.jpg">
+</div>
